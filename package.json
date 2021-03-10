@@ -4,6 +4,7 @@
   "description": "functional implementation of Mersenne Twister",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "sideEffects": false,
   "files": [
     "dist"
   ],
